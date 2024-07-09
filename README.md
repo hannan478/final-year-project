@@ -1,5 +1,5 @@
 # final-year-project
-This is my final year project .
+This is my final year project .I have learnt many new things during my python journey and glad to be a coder .
 
 
 
